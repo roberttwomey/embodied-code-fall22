@@ -8,9 +8,7 @@
 
 This innovation studio focuses on the Embodied Coding project, an National Science Foundation (NSF)-funded research project developing a visual coding language in VR and AR. Students will contribute as members of a multi-institutional research team developing the Embodied Coding Environment (ECE) in Unity; testing the existing system; and creating assets, exercises, and experiments as early users of the platform. These efforts lay the foundations for an upcoming research study with High School-aged novice programmers.
 
-__Details__
-
-Embodied Code: a platform for creative coding in Virtual and Augmented Reality (VR/AR).
+__Embodied Code__
 
 The Embodied Coding Environment (ECE) is a flow-based visual coding system designed to increase physical engagement with programming and lower the barrier to entry for novice programmers. It is conceptualized as a merged digital/physical workspace where spatial representations of code, the visual outputs of the code, and user interactions and edit histories are co-located in a virtual 3D space.
 
