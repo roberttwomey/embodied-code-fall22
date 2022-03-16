@@ -37,15 +37,19 @@ Students will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-<!--
+- Quest 2 headset for running the app.
+- SideQuest for sideloading app. 
+- Unity for developing.
 
+<!--
 - **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-art-creative-ai` channel on the Carson Center server [https://discord.com/channels/688079641738608705/824358570161733643](https://discord.com/channels/688079641738608705/824358570161733643).
   - the server invite is posted on canvas.
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
 - **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
 - **Zoom:** [https://unl.zoom.us/j/94101425950](https://unl.zoom.us/j/94101425950)
   - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
-<!--- **Github Classroom:** this is where you will submit your code: [link to come]()-->
+- **Github Classroom:** this is where you will submit your code: [link to come]()
+-->
 
 
 # Schedule
