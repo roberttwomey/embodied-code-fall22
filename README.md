@@ -1,4 +1,4 @@
-# EMAR 331-002 Innovation Studio: Embodied Code - Fall 2022
+# EMAR 331/332 SEC 002 Innovation Studio: Embodied Code - Fall 2022
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
