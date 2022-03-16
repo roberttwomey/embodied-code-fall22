@@ -1,6 +1,6 @@
 # EMAR 331-002 Innovation Studio: Embodied Code - Fall 2022
 
-[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,8 +37,8 @@ Students will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- Quest 2 headset for running the app.
-- SideQuest for sideloading app. 
+- **VR Headsets:** we will develop with the Quest 2 headset.
+  - SideQuest for sideloading the embodied code app. 
 - Unity for developing.
 
 <!--
@@ -50,7 +50,6 @@ Students will:
   - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
 - **Github Classroom:** this is where you will submit your code: [link to come]()
 -->
-
 
 # Schedule
 [Details to come]
