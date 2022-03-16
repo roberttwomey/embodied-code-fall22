@@ -47,8 +47,9 @@ Students will:
 
 
 # Schedule
-(Subject to Change-Always check back for most up to date information)
+[Details to come]
 <!--
+(Subject to Change-Always check back for most up to date information)
 | Week | Topic |
 |------|-------|
 | 1a | **Hello. Syllabus and Policies. Compute Setup** |
