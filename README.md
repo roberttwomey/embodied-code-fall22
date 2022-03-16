@@ -4,7 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--![Image](ml_art2019.png)-->
+<!-- ![Image](ml_art2019.png)-->
 
 # Description
 
@@ -50,6 +50,7 @@ Students will:
 
 # Schedule
 [Details to come]
+
 <!--
 (Subject to Change-Always check back for most up to date information)
 | Week | Topic |
