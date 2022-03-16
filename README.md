@@ -12,7 +12,7 @@ This innovation studio focuses on the Embodied Coding project, an National Scien
 
 __Embodied Code__
 
-The Embodied Coding Environment (ECE) is a flow-based visual coding system designed to increase physical engagement with programming and lower the barrier to entry for novice programmers. It is conceptualized as a merged digital/physical workspace where spatial representations of code, the visual outputs of the code, and user interactions and edit histories are co-located in a virtual 3D space. Read more about the project here: [embodiedcode.net](http://embodiedcode.net/).
+Embodied Code is a platform for creative coding in Virtual and Augmented Reality (VR/AR). This flow-based visual coding system is designed to increase physical engagement with programming, and to lower the barrier to entry for novice programmers. It is conceptualized as a merged digital/physical workspace where spatial representations of code, the visual outputs of the code, and user interactions and edit histories are co-located in a virtual 3D space. Read more about the project here: [embodiedcode.net](http://embodiedcode.net/).
 
 ## Details
 
