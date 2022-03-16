@@ -2,7 +2,7 @@
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- ![Image](ml_art2019.png)-->
 
@@ -101,6 +101,7 @@ Students will:
 ## Description of Assignments and Exams
 
 [details to come]
+
 <!--
 __*Weekly Exercises*__
 We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
@@ -160,20 +161,6 @@ Academic dishonesty will not be tolerated in this course. Any instances will res
 
 We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
-# Policies
-
-__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page (https://go.unl.edu/coursepolicies):
-- University-wide Attendance Policy
-- Academic Honesty Policy
-- Services for Students with Disabilities
-- Mental Health and Well-Being Resources
-- Final Exam Schedule
-- Fifteenth Week Policy
-- Emergency Procedures
-- Diversity & Inclusiveness
-- Title IX Policy
-- Other Relevant University-Wide Policies
-
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
 
@@ -186,10 +173,19 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
-# Addenda
-## CMU Collaboration
+# Policies
 
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
+__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page ([https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies)):
+- University-wide Attendance Policy
+- Academic Honesty Policy
+- Services for Students with Disabilities
+- Mental Health and Well-Being Resources
+- Final Exam Schedule
+- Fifteenth Week Policy
+- Emergency Procedures
+- Diversity & Inclusiveness
+- Title IX Policy
+- Other Relevant University-Wide Policies
+ 
 # References
 <!--- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)-->
