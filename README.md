@@ -20,8 +20,8 @@ Embodied Code is a platform for creative coding in Virtual and Augmented Reality
 - **Class:** Tu/Th 11:00-12:15pm
 - **Location:** CEMA 101E / and VR Lab
 - **Office Hours:** Wed, Discord and in person (Cohab-Lab, CEMA 253)
-- **Discord:** https://discord.gg/kMvwgyYHvj
-- **Canvas:** https://canvas.unl.edu/courses/137404
+- **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
+- **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
 
 ## Course objectives
 Students will:
