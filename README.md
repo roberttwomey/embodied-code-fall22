@@ -60,7 +60,7 @@ Students will:
 | 1b | **Setup VR** <br> - Activities: Log on and enable developer mode<br> - Readings: [TK]<br> - Exercise: [tk] |
 | 2a | **Intro to Embodied Code** <br> - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice<br> - Readings: [TK] <br> - Exercise: [TK] |
 | 3-5 | **Hands on with Embodied Code** |
-| 6-14| **Thread 1: Research and Thread 2: Development** | 
+| 6-14| **Research (Task 1) and Development (Task 2)** | 
 | 15-16 | **Final Presentations**<br> - final presentations<br>- final reports |
 | Finals | **Writeup and Documentation Due** |
 
