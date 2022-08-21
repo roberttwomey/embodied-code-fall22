@@ -35,9 +35,10 @@ Students will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **VR Headsets:** we will develop with the Quest 2 headset.
-  - SideQuest for sideloading the embodied code app. 
-- Unity for developing.
+- **VR Headsets:** we will develop with the Quest 2 headset
+  - [SideQuest](https://sidequestvr.com/) for sideloading the embodied code app. 
+- Unity for developing
+- An IDE (VS Code or similar)
 
 <!--
 - **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#ml-art-creative-ai` channel on the Carson Center server [https://discord.com/channels/688079641738608705/824358570161733643](https://discord.com/channels/688079641738608705/824358570161733643).
