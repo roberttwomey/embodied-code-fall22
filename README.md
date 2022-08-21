@@ -52,31 +52,17 @@ Students will:
 -->
 
 # Schedule
-[Details to come]
-
-<!--
 (Subject to Change-Always check back for most up to date information)
+
 | Week | Topic |
 |------|-------|
-| 1a | **Hello. Syllabus and Policies. Compute Setup** |
-| 1b | **Generative Systems in the Arts, Basics of Neural Nets** <br> - Course environment setup <br> - python/jupyter basics;<br> - Exercise: introductory python/jupyterhub/OOD exercise |
-| 2 | **Text Generation I**<br> - Historical Approaches;<br> - RNNs, LSTMs, GRUs;<br> - text scraping and data cleaning;<br> - RNN exercise;<br> Assign Project 1 |
-| 3 | **Text Generation II**<br> - Transformers;<br> - Fine-Tuning;<br> - Exercise: GPT and fine-tuning;<br> - Due: Project 1 Proposal |
-| 4 | **Chatbots, Interactive Text**<br> - Time Series in ML<br> - Exercise: interactive text |
-| 5 | **Time II: Autoencoders, Embeddings, Sketch-RNN** <br>- Sketch-RNN exercise <br> - Due: Project 1 |
-| 6 | **Audio I**<br> - Intro to Generative Audio<br> - Generative Networks for Music<br> - Exercise: MIDI RNN|
-| 7 | **Audio II**<br> - Music transformers<br> - Speech generation<br> - Exercise: speech generation<br> - Assign Project 2 |
-| 8 | **Audio III**<br> - Speech Recognition<br> -vocal cloning<br> - Exercise: speech interaction <br> - Due: Project 2 Proposal |
-| 9 | **Visual Processing**<br> - CNNs<br> - Style Transfer and Deep Dream<br> - Exercise: style transfer/deep dream<br> |
-| 10 | **GANs**<br> - Generative Adversarial Networks<br> -Exercise: GAN<br> - Due: Project 2 <br> - Assign Project 3|
-| 11 | **Visual II**<br> - Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
-| 12 | **Text and Image**<br> - Image Captioning, transformers and GANs<br> - Text to image translation (CLIP, DALL-E, guided diffusion)<br> - Exercise: text and image<br> - Due: Final Project Proposal |
-| 13 | **ML and Video**<br> - Video processing exercise<br> - Due: Project 3<br> - Exercise: Final project proposal |
-| 14 | **Platforms and Applications**<br> - infrastructure for ML and the Arts<br> - Final project work time |
-| 15 | **Workshopping Final Presentations**<br> - Final project work time |
-| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
-
--->
+| 1a | **Hello. Syllabus and Policies** |
+| 1b | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
+| 2a | **Intro to Embodied Code** <br> - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice<br> - Readings: [TK] <br> - Exercise: [TK] |
+| 3-5 | **Hands on with Embodied Code** |
+| 6-14| **Thread 1: Research and Thread 2: Development** | 
+| 15-16 | **Final Presentations**<br> - final presentations<br>- final reports |
+| Finals | **Writeup and Documentation Due** |
 
 # Grading
 
