@@ -57,7 +57,7 @@ Students will:
 | Week | Topic |
 |------|-------|
 | 1a | **Hello. Syllabus and Policies** |
-| 1b | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
+| 1b | **Setup VR** <br> - Activities: Log on and enable developer mode<br> - Readings: [TK]<br> - Exercise: [tk] |
 | 2a | **Intro to Embodied Code** <br> - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice<br> - Readings: [TK] <br> - Exercise: [TK] |
 | 3-5 | **Hands on with Embodied Code** |
 | 6-14| **Thread 1: Research and Thread 2: Development** | 
