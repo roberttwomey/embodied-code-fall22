@@ -101,10 +101,10 @@ You will contribute to the getting started guide, documentation ([https://embodi
 __*Development*__ (weeks 5-16)
 You will identify a development task (or tasks) within the embodied coding project, and do this development. This is one of the two main deliverables for this class. You will develop in Unity, Python, or within the Embodied Code system itself. We can help you come up with an idea for this.
 
-__*Research*__
+__*Research*__ (weeks 5-16)
 You will identify a research question that interests you around using the embodied coding project. You will learn about how to structure a research question, how to set up a study, and how to summarize and analyze results. You will also learn the basics of writing a research paper and publishing scientific literature. 
 
-__*Lab Notebook*__
+__*Lab Notebook*__ (ongoing)
 Throughout the semester you will keep a lab notebook in google docs. This will be graded on completion. I will check this occasionally to stay abreast of your progress. This is a place to document your work. To keep track of bugs, questions, ideas that you have. Also a place to keep screenshots and other visual documentation.
 
 ## Late work policy
