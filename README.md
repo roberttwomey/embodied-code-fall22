@@ -165,8 +165,9 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 # References
-- [NSF Award #2017042 - An Embodied, Augmented Reality Coding Platform for Pair Programming](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
+- National Science Foundation webpage: [NSF Award #2017042 - An Embodied, Augmented Reality Coding Platform for Pair Programming](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
+- Embodied Code documentation: [https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)
+- Embodied Code Website: [https://embodiedcode.net](http://embodiedcode.net/)
 
 # Land Acknowledgment
-
 We acknowledge that the University of Nebraska is a land-grant institution with campuses and programs on the past, present, and future homelands of the Pawnee, Ponca, Oto-Missouria, Omaha, Dakota, Lakota, Arapaho, Cheyenne, and Kaw Peoples, as well as the relocated Ho-Chunk, Iowa, and Sac and Fox Peoples. Please take a moment to consider the legacies of more than 150 years of displacement, violence, settlement, and survival that bring us together here today. This acknowledgement and the centering of Indigenous Peoples is a start as we move forward together for the next 150 years. 
