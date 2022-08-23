@@ -67,7 +67,7 @@ Students will:
 
 ## Graded activities
 
-- 10% Exercises
+- 15% Exercises
 - 15% Tutorial / Documentation
 - 30% Research
 - 30% Development
