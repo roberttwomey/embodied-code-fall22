@@ -20,9 +20,6 @@ Embodied Code is a platform for creative coding in Virtual and Augmented Reality
 - **Class:** Tu/Th 11:00-12:15pm
 - **Location:** CEMA 101E / and VR Lab
 - **Office Hours:** Wed, Discord and in person (Cohab-Lab, CEMA 253)
-- **Discord:** [https://discord.gg/FTtktDsvPQ](https://discord.gg/FTtktDsvPQ)
-- **Canvas:** [https://canvas.unl.edu/courses/137391](https://canvas.unl.edu/courses/137391)
-
 
 ## Course objectives
 Students will:
@@ -36,6 +33,8 @@ Students will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
+- **Discord:** [https://discord.gg/FTtktDsvPQ](https://discord.gg/FTtktDsvPQ)
+- **Canvas:** [https://canvas.unl.edu/courses/137391](https://canvas.unl.edu/courses/137391)
 - **VR Headsets:** we will develop with the Quest 2 headset
   - [SideQuest](https://sidequestvr.com/) for sideloading the embodied code app. 
 - Unity for developing
