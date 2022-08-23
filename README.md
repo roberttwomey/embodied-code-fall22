@@ -55,11 +55,11 @@ Students will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Hello. Syllabus and Policies** |
+| 1a | **Introduction**<br>- Syllabus and Policies; Form teams; Distribute headsets |
 | 1b | **Setup VR** <br> - Activities: Log on and enable developer mode<br> - Readings: [TK]<br> - Exercise: [tk] |
 | 2a | **Intro to Embodied Code** <br> - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice<br> - Readings: [TK] <br> - Exercise: [TK] |
-| 3-5 | **Hands on with Embodied Code** |
-| 6-14| **Research (Task 1) and Development (Task 2)** | 
+| 3-4 | **Hands on with Embodied Code**|
+| 5-14| **Research (Task 1) and Development (Task 2)** | 
 | 15-16 | **Final Presentations**<br> - final presentations<br>- final reports |
 | Finals | **Writeup and Documentation Due** |
 
@@ -67,7 +67,11 @@ Students will:
 
 ## Graded activities
 
-[Details to come]
+- 10% Exercises
+- 15% Tutorial / Documentation
+- 30% Research
+- 30% Development
+- 10% Participation (Lab Notebook)
 
 <!--
 - 20% Weekly Exercises – approximately 10 exercises 
@@ -88,21 +92,20 @@ Students will:
 
 ## Description of Assignments and Exams
 
-[details to come]
+__*Exercises*__ (ongoing)
+We will have regular, weekly assignments involving research tasks, programming activities, or reading and responding. These will be short activities with clearly stated requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
 
-<!--
-__*Weekly Exercises*__
-We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
+__*Tutorial*__ (weeks 1-4)
+You will contribute to the getting started guide, documentation ([https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)) or in-game tutorial syste for this project. This will be graded on clarity and completion.
 
-__*Projects*__
-We will have three projects over the semester (at 15% each), covering three kinds of generative media: Text, Sound, and Image. Each project will be hosted on a github repository documenting project following a uniform template. This includes a statement of concept, source code, links to data resources, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and github respositories will be submitted for grading.
+__*Development*__ (weeks 5-16)
+You will identify a development task (or tasks) within the embodied coding project, and do this development. This is one of the two main deliverables for this class. You will develop in Unity, Python, or within the Embodied Code system itself. We can help you come up with an idea for this.
 
-__*Final Project, Documentation, and Presentation*__
-At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
+__*Research*__
+You will identify a research question that interests you around using the embodied coding project. You will learn about how to structure a research question, how to set up a study, and how to summarize and analyze results. You will also learn the basics of writing a research paper and publishing scientific literature. 
 
-__*Participation*__
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
--->
+__*Lab Notebook*__
+Throughout the semester you will keep a lab notebook in google docs. This will be graded on completion. I will check this occasionally to stay abreast of your progress. This is a place to document your work. To keep track of bugs, questions, ideas that you have. Also a place to keep screenshots and other visual documentation.
 
 ## Late work policy
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
@@ -162,7 +165,7 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 # References
-<!--- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)-->
+- [NSF Award #2017042 - An Embodied, Augmented Reality Coding Platform for Pair Programming](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
 
 # Land Acknowledgment
 
