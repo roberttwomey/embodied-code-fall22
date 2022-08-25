@@ -25,6 +25,7 @@ We need to set up:
 ### Embodied Code Account
 1. Make an account for our app: [http://app.embodiedcode.net/users/login](http://app.embodiedcode.net/users/login)
 
+You will use this to log in within the app.
 
 ### Get Started!
 
