@@ -18,16 +18,21 @@ We need to set up:
 2. Enable developer mode (request a developer account, or have me send you an invite to my carson center group) 
 3. Verify that you have enabled developer settings on the headset.
 
-### Sidequest
+### Install our app
+[see directions here](https://embodiedcode.net/docs/getting-started.html#install-our-app)
+
 1. Install [SideQuest](https://sidequestvr.com/download) on your computer. SideQuest is an application that lets you install applications that have not been registered with Oculus and checked for viruses. Only sideload applications from people that you trust, as this bypasses a lot of security.
 2. Download our APK file. (see shared account info [here on canvas](https://canvas.unl.edu/courses/137391/pages/meta-account-and-apk-file))
+3. Install APK using sidequest. 
 
-### Embodied Code Account
+### Make an Embodied Code Account
 1. Make an account for our app: [http://app.embodiedcode.net/users/login](http://app.embodiedcode.net/users/login)
 
 You will use this to log in within the app.
 
 ### Get Started!
+
+[Launch the app](https://embodiedcode.net/docs/getting-started.html#launch-the-app)
 
 # Homework
 - Reading and response. See canvas: [https://canvas.unl.edu/courses/137391/discussion_topics/976393](https://canvas.unl.edu/courses/137391/discussion_topics/976393)
