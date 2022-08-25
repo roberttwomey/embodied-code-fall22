@@ -56,7 +56,7 @@ Students will:
 | Week | Topic |
 |------|-------|
 | 1a | **Introduction**<br>- Syllabus and Policies; Form teams; Distribute headsets |
-| 1b | **Setup VR** <br> - Activities: Log on and enable developer mode<br> - Readings: [TK]<br> - Exercise: [tk] |
+| 1b | **[Setup VR](sessions/week1.md)** <br> - Activities: Log on and enable developer mode<br> - Readings: [TK]<br> - Exercise: [tk] |
 | 2a | **Intro to Embodied Code** <br> - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice<br> - Readings: [TK] <br> - Exercise: [TK] |
 | 3-4 | **Hands on with Embodied Code**|
 | 5-14| **Research (Task 1) and Development (Task 2)** | 
