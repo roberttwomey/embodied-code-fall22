@@ -32,10 +32,13 @@ You will use this to log in within the app.
 
 ### Get Started!
 
-[Launch the app](https://embodiedcode.net/docs/getting-started.html#launch-the-app)
+[Launch the app](https://embodiedcode.net/docs/getting-started.html#launch-the-app).
+
+If you begin the tutorial, please take notes in your lab notebook (see below).
 
 # Homework
 - Reading and response. See canvas: [https://canvas.unl.edu/courses/137391/discussion_topics/976393](https://canvas.unl.edu/courses/137391/discussion_topics/976393)
+- Create your lab notebook. See canvas: [https://canvas.unl.edu/courses/137391/assignments/1336038](https://canvas.unl.edu/courses/137391/assignments/1336038)
 
 # References
 - Embodied Code getting started guide: [https://embodiedcode.net/docs/getting-started.html](https://embodiedcode.net/docs/getting-started.html)
