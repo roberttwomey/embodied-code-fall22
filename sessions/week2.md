@@ -7,9 +7,14 @@
   - Tommy Sharkey, Graduate Researcher + Alum [tlsharkey.com](tlsharkey.com)
   - Amy Eguchi, Investigator [linked-in](https://www.linkedin.com/in/amy-eguchi/)
   - Monica Sweet, Investigator [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
-  - Robert (me)
+  - Robert Twomey, co-PI [roberttwomey.com](https://roberttwomey.com)
 - [Lecture: Embodied Code](https://docs.google.com/presentation/d/13KcoeTc7K2YJ3zsBKtjHwVgo5PHPdqgSdDeZATK23kU/edit?usp=sharing)
   - Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice
+- Q & A
+
+## Homework
+
+No homework.
 
 ## Thursday
 - Tutorials and Hands-on with App
