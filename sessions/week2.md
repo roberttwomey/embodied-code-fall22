@@ -1,6 +1,6 @@
 # Week 2
 
-## Tuesday
+# Tuesday
 - Meet the Team:
   - Ying Wu, PI [insight.ucsd.edu](https://insight.ucsd.edu)
   - Timothy Wood, Postdoc [fishuyo.com](http://fishuyo.com)
@@ -16,11 +16,11 @@
 
 No homework.
 
-## Thursday
+# Thursday
 - Create developer account. 
 - Tutorials and Hands-on with App
 
-# Homework
+## Homework
 - Complete Intro Tutorials and documentation: [intro](../exercises/intro.md)
 
 # References
