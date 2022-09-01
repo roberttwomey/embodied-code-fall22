@@ -17,10 +17,11 @@
 No homework.
 
 ## Thursday
+- Create developer account. 
 - Tutorials and Hands-on with App
 
 # Homework
-- [TK]
+- Complete Intro Tutorials and documentation: [intro](../exercises/intro.md)
 
 # References
-- [TK]
+- Getting Started Guide: [https://embodiedcode.net/docs/getting-started.html#intro-tutorial](https://embodiedcode.net/docs/getting-started.html#intro-tutorial)
