@@ -21,7 +21,8 @@ No homework.
 - Tutorials and Hands-on with App
 
 ## Homework
-- Complete Intro Tutorials and documentation: [intro](../exercises/intro.md)
+- Complete [Intro Tutorials and Documentation](../exercises/intro.md)
+- Reading and Response, need-finding paper: 
 
 # References
 - Getting Started Guide: [https://embodiedcode.net/docs/getting-started.html#intro-tutorial](https://embodiedcode.net/docs/getting-started.html#intro-tutorial)
