@@ -22,7 +22,7 @@ No homework.
 
 ## Homework
 - Complete [Intro Tutorials and Documentation](../exercises/intro.md)
-- Reading and Response, need-finding paper: 
+- Reading and Response, need-finding paper: [https://canvas.unl.edu/courses/137391/discussion_topics/981928](https://canvas.unl.edu/courses/137391/discussion_topics/981928)
 
 # References
 - Getting Started Guide: [https://embodiedcode.net/docs/getting-started.html#intro-tutorial](https://embodiedcode.net/docs/getting-started.html#intro-tutorial)
