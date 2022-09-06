@@ -8,7 +8,8 @@ Tutorials and Representation
   - Double check that the APK, streaming, etc., are working.
 
 ## Homework
-- Begin brainstorming your own introductory tutorial and creative coding activity.
+- Begin brainstorming your own introductory tutorial and creative coding activity. 
+  - Preliminary Ideas for Tutorial and Activity: [https://canvas.unl.edu/courses/137391/discussion_topics/983943](https://canvas.unl.edu/courses/137391/discussion_topics/983943) DUE Sept 8th end of day.
 
 ## Thursday
 [TK]
