@@ -1,6 +1,7 @@
 # Week 2
+Intro to Embodied Code and Tutorials
 
-# Tuesday
+## Tuesday
 - Meet the Team:
   - Ying Wu, PI [insight.ucsd.edu](https://insight.ucsd.edu)
   - Timothy Wood, Postdoc [fishuyo.com](http://fishuyo.com)
@@ -16,7 +17,7 @@
 
 No homework.
 
-# Thursday
+## Thursday
 - Create developer account. 
 - Tutorials and Hands-on with App
 
@@ -24,5 +25,5 @@ No homework.
 - Complete [Intro Tutorials and Documentation](../exercises/intro.md)
 - Reading and Response, need-finding paper: [https://canvas.unl.edu/courses/137391/discussion_topics/981928](https://canvas.unl.edu/courses/137391/discussion_topics/981928)
 
-# References
+## References
 - Getting Started Guide: [https://embodiedcode.net/docs/getting-started.html#intro-tutorial](https://embodiedcode.net/docs/getting-started.html#intro-tutorial)
