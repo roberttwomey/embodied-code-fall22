@@ -59,7 +59,8 @@ Students will:
 | 1b | **[Setup VR](sessions/week1.md#thursday)**<br> - Activities: Discord setup. Meta accounts. Log on and enable developer mode<br> - Readings: NSF Abstract and Need-finding<br> - Exercise: Reading response |
 | 2a | **[Intro to Embodied Code](sessions/week2.md#tuesday)** <br> Topics: embodied cognition; visual coding; ar/vr/xr affordances; somatic practice |
 | 2b | **[Tutorials](/sessions/week2.md#thursday)** |
-| 3-4 | **[Hands on with Embodied Code](sessions/week3.md)**|
+| 3 | **[Hands on with Embodied Code](sessions/week3.md)**|
+| 4 | Tutorial Design | 
 | 5-14| **Research (Task 1) and Development (Task 2)** | 
 | 15-16 | **Final Presentations**<br> - final presentations<br>- final reports |
 | Finals | **Writeup and Documentation Due** |
