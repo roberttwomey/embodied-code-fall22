@@ -10,8 +10,8 @@ Tutorials and Representation
   - Preliminary Ideas for Tutorial and Activity: [https://canvas.unl.edu/courses/137391/discussion_topics/983943](https://canvas.unl.edu/courses/137391/discussion_topics/983943) DUE Sept 8th end of day.
 
 ## Thursday
-- Annotation/Drawing
 - Streaming
+- Annotation/Drawing
 
 ## Homework
 [TK]
