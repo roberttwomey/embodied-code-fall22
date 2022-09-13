@@ -15,11 +15,11 @@ Issues and Tutorial Design
 ## Homework
 
 Contribute to the Development Tasks board (from your journal):
+
 1. Post **Issues** 
 2. Post **Design Ideas / Directions**
 
-By Thursday, we want a complete storyboard for your project (drawn). 
-
+By Thursday, we want a complete storyboard for your project (drawn).
 
 ## Thursday
 - Interactive Storyboard/Prototype with Figma
