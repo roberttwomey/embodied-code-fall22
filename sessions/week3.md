@@ -14,7 +14,7 @@ Tutorials and Representation
 - Annotation/Drawing
 
 ## Homework
-[TK]
+None.
 
 ## References
 - [Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives (2022)](https://www.scitepress.org/PublicationsDetail.aspx?ID=OhB4jK63WSU%3d&t=1) from CSEDU 2022.
