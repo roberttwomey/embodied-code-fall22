@@ -1,17 +1,28 @@
-# Week 3
-Tutorials and Representation
+# Week 4
+Issues and Tutorial Design
 
 ## Tuesday
-- Debrief on need-finding paper. 
-- Debrief on Introduction/Tutorials.
+- Issues
+  - Introduction to Trello
+    - > Trello is a web-based, Kanban-style, list-making application and is developed by Trello Enterprise, a subsidiary of Atlassian.
+  - Make trello account and join our Development Tasks board: https://trello.com/b/UwMsWpUi/developmenttasks
+  - Familiarize yourself with the current info on Trello.
+  - Trello vs. github https://github.com/xrdesign/EmbodiedCode/issues
+- Design
+  - Storyboarding your project.
+  - Figma for prototypes.
 
 ## Homework
-- Begin brainstorming your own introductory tutorial and creative coding activity. 
-  - Preliminary Ideas for Tutorial and Activity: [https://canvas.unl.edu/courses/137391/discussion_topics/983943](https://canvas.unl.edu/courses/137391/discussion_topics/983943) DUE Sept 8th end of day.
+
+Contribute to the Development Tasks board (from your journal):
+1. Post **Issues** 
+2. Post **Design Ideas / Directions**
+
+By Thursday, we want a complete storyboard for your project (drawn). 
+
 
 ## Thursday
-- Streaming
-- Annotation/Drawing
+- Interactive Storyboard/Prototype with Figma
 
 ## Homework
 None.
