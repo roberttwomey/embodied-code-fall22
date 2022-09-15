@@ -5,9 +5,9 @@ Issues and Tutorial Design
 - Issues
   - Introduction to Trello
     - > Trello is a web-based, Kanban-style, list-making application and is developed by Trello Enterprise, a subsidiary of Atlassian.
-  - Make trello account and join our Development Tasks board: https://trello.com/b/UwMsWpUi/developmenttasks
+  - Make trello account and join our Development Tasks board: [https://trello.com/b/UwMsWpUi/developmenttasks](https://trello.com/b/UwMsWpUi/developmenttasks)
   - Familiarize yourself with the current info on Trello.
-  - Trello vs. github https://github.com/xrdesign/EmbodiedCode/issues
+  - Trello vs. github [https://github.com/xrdesign/EmbodiedCode/issues](https://github.com/xrdesign/EmbodiedCode/issues)
 - Design
   - Storyboarding your project.
   - Figma for prototypes.
@@ -23,9 +23,12 @@ By Thursday, we want a complete storyboard for your project (drawn).
 
 ## Thursday
 - Interactive Storyboard/Prototype with Figma
+- Guest lecture from Yuzi, Embodied Code team (UCSD) (9:15-9:45am)
+- Working on storyboard
 
 ## Homework
-None.
+- Complete an interactive storyboard: [https://canvas.unl.edu/courses/137391/assignments/1347591/](https://canvas.unl.edu/courses/137391/assignments/1347591/) DUE Tuesday 9/20 11:59pm.
 
 ## References
-- [Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives (2022)](https://www.scitepress.org/PublicationsDetail.aspx?ID=OhB4jK63WSU%3d&t=1) from CSEDU 2022.
+- Existing getting started documentation: [https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)
+- Current Example Scenes: [https://embodiedcode.net/docs/#example-scenes](https://embodiedcode.net/docs/#example-scenes)
