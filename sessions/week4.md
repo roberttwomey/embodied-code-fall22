@@ -27,7 +27,7 @@ By Thursday, we want a complete storyboard for your project (drawn).
 - Working on storyboard
 
 ## Homework
-- Complete an interactive storyboard: [https://canvas.unl.edu/courses/137391/assignments/1347591/](https://canvas.unl.edu/courses/137391/assignments/1347591/) DUE Tuesday 9/20 11:59pm.
+- Complete an interactive storyboard [https://canvas.unl.edu/courses/137391/assignments/1347591/](Canvas) DUE Tuesday 9/20 11:59pm.
 
 ## References
 - Existing getting started documentation: [https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)
