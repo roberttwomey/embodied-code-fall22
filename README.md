@@ -99,7 +99,7 @@ __*Exercises*__ (ongoing)
 We will have regular, weekly assignments involving research tasks, programming activities, or reading and responding. These will be short activities with clearly stated requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
 
 __*Tutorial*__ (weeks 1-4)
-You will contribute to the getting started guide, documentation ([https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)) or in-game tutorial syste for this project. This will be graded on clarity and completion.
+You will contribute to the getting started guide, documentation ([https://embodiedcode.net/docs/](https://embodiedcode.net/docs/)) or in-game tutorial system for this project. This will be graded on clarity and completion.
 
 __*Development*__ (weeks 5-16)
 You will identify a development task (or tasks) within the embodied coding project, and do this development. This is one of the two main deliverables for this class. You will develop in Unity, Python, or within the Embodied Code system itself. We can help you come up with an idea for this.
