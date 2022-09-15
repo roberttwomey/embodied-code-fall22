@@ -1,5 +1,6 @@
 # Week 4
 Issues and Tutorial Design
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
 
 ## Tuesday
 - Issues
