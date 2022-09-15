@@ -18,12 +18,14 @@ Issues and Tutorial Design
 
 Contribute to the Development Tasks board (from your journal):
 
+
 1. Post **Issues** 
 2. Post **Design Ideas / Directions**
 
 By Thursday, we want a complete storyboard for your project (drawn).
 
 ## Thursday
+- Talk about Trello
 - Interactive Storyboard/Prototype with Figma
 - Guest lecture from Yuzi, Embodied Code team (UCSD) (9:15-9:45am)
 - Working on storyboard
